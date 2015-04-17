@@ -1,0 +1,4 @@
+C:\Users\משה\Desktop\work2\Forum\Forum\bin\Forum.dll
+C:\Users\משה\Desktop\work2\Forum\Forum\bin\Forum.pdb
+C:\Users\משה\Desktop\work2\Forum\Forum\obj\Debug\Forum.dll
+C:\Users\משה\Desktop\work2\Forum\Forum\obj\Debug\Forum.pdb
